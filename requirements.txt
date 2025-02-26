@@ -11,3 +11,4 @@ streamlit-option-menu
 wordcloud
 openpyxl
 nltk
+git+https://github.com/har07/PySastrawi.git
