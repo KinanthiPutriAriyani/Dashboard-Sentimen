@@ -1,3 +1,3 @@
-# Dashboard-Sentimen
+# SentiKlik - Analisis Sentimen dengan Satu Klik
 
-Penggunaan dashboard streamlit mengenai analisis sentimen rangka esaf dengan model Support Vector Machine
+Dashboard streamlit mengenai analisis sentimen rangka esaf dengan model Support Vector Machine.
